@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/students.dir/students.cc.o -o students  -Wl,-rpath,/home/pub/Practice/cmake/build:::::: libcalc.so 

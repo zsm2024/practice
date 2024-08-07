@@ -1,0 +1,15 @@
+/home/pub/Practice/cmake/build/CMakeFiles/calc.dir
+/home/pub/Practice/cmake/build/CMakeFiles/students.dir
+/home/pub/Practice/cmake/build/CMakeFiles/edit_cache.dir
+/home/pub/Practice/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/pub/Practice/cmake/build/CMakeFiles/list_install_components.dir
+/home/pub/Practice/cmake/build/CMakeFiles/install.dir
+/home/pub/Practice/cmake/build/CMakeFiles/install/local.dir
+/home/pub/Practice/cmake/build/CMakeFiles/install/strip.dir
+/home/pub/Practice/cmake/build/subcmake/CMakeFiles/vector.dir
+/home/pub/Practice/cmake/build/subcmake/CMakeFiles/edit_cache.dir
+/home/pub/Practice/cmake/build/subcmake/CMakeFiles/rebuild_cache.dir
+/home/pub/Practice/cmake/build/subcmake/CMakeFiles/list_install_components.dir
+/home/pub/Practice/cmake/build/subcmake/CMakeFiles/install.dir
+/home/pub/Practice/cmake/build/subcmake/CMakeFiles/install/local.dir
+/home/pub/Practice/cmake/build/subcmake/CMakeFiles/install/strip.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/vector.dir/vector.cc.o -o vector  -Wl,-rpath,/home/pub/Practice/cmake/build:::::: ../libcalc.so 
