@@ -15,5 +15,4 @@ void vector1(std::vector<st> &myvector,std::string name1)
       std::cout<<it->m_id<<" "<<it->m_bin<<std::endl;
     }
   }
-
 }

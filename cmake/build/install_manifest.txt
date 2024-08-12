@@ -1,3 +1,0 @@
-/home/pub/Practice/cmake/install/lib/libcalc.so
-/home/pub/Practice/cmake/install/bin/students
-/home/pub/Practice/cmake/install/bin/vector
